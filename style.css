@@ -1,0 +1,100 @@
+/*p{
+    color: black;
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.fundoverde{
+    background-color: green;
+    border-radius: 7px;
+}
+#botao{
+    color: aqua;
+    font-size: 25px;
+}
+
+.texto-importante{
+    color: red;
+}
+
+.texto-nao-importante{
+    color: blue;
+}
+div{
+    background-color: yellow;
+    width: 400px;
+}
+
+td{
+    background-color: darkgoldenrod;
+}
+#caiotas{
+    color: red;
+}
+#paulinha{
+    color: green;
+}
+#miau{
+    color: blue;
+}
+div{
+    height: 200px;
+}
+#div1{
+    background-color: red;
+    width: 49%;
+    display: inline-block;
+}
+#div2{
+    background-color: blue;
+    width: 49%;
+    display: inline-block;
+}
+#div3{
+    background-color: green;
+    width: 98%;
+    display: inline-block;
+}
+
+#texto{
+    background-color: red;
+    display: inline-block;
+    font-size: 100px;
+    margin: 10px 5px 8px 20px;
+    padding: 10px 5px 8px 20px;
+}
+#texto2{
+    background-color: green;
+    display: inline-block;
+    font-size: 100px;
+}
+*/
+
+.paragrafo{
+    display: inline;
+}
+#h1{
+    color: darkgreen
+}
+#p1{
+    background-color: red;
+    display: inline;
+    padding: 2px;
+}
+#p2{
+    color: white;
+    background-color: yellow;
+    display: inline;
+    padding: 2px;
+}
+.h1none{
+    display: none;
+}
+.btn{
+    display: block;
+    color: white;
+    background-color: blue;
+    margin-top: 3px;
+    margin-right: 3px;
+}
